@@ -1,0 +1,7 @@
+com\seleniumeg_pomm\AboutPage.class
+com\seleniumeg_pomm\HomePage.class
+com\seleniumeg_pomm\ContactPage.class
+com\seleniumeg_pomm\ExcelReadUtils.class
+com\seleniumeg_pomm\MainTestApp.class
+com\seleniumeg_pomm\MainTestAppJUnit.class
+com\seleniumeg_pomm\MainTestAppJUnitExcel.class
